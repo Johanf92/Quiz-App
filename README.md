@@ -1,2 +1,3 @@
 # Quiz-App
-Tutorial with my won twist
+Learning how to make a Quiz app
+---- Update readme
